@@ -1,0 +1,5 @@
+1. Utworzono katalog lesson i plik Secre.txt
+2. Dodano usera labuser oraz grupe  securegroup
+3. Zmieniono właściciela oraz grupę pliku
+4. Nadano uprawnioenia: tylko właściciel może czytać i pisać
+
