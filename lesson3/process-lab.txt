@@ -1,0 +1,15 @@
+PID: 26451
+process name: yes
+
+ps aux | grep yes #pokazuje jakie jest PID procesu yes
+system
+
+kill zabija proces a kill -9 unicestwia go bez żadnego kompromis
+
+systemctl status sshd 
+
+active 
+
+after stop command
+
+inactive
